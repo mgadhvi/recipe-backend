@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Spaghetti Aglio e Olio",
+        "servings": 4,
+        "ingredients": [
+            "400 g spaghetti",
+            "80 ml extra-virgin olive oil",
+            "4 cloves garlic, thinly sliced",
+            "1 tsp red pepper flakes",
+            "2 tbsp fresh parsley, chopped",
+            "1 tsp lemon zest",
+            "salt, to taste",
+            "freshly ground black pepper, to taste"
+        ],
+        "steps": [
+            "Cook spaghetti in salted boiling water until al dente; reserve 1 cup cooking water.",
+            "Heat olive oil in a large pan over medium heat. Add garlic and sauté until fragrant, about 1 minute (do not brown).",
+            "Stir in red pepper flakes and lemon zest; cook 30 seconds.",
+            "Add cooked spaghetti, toss to coat, adding reserved water a little at a time to create a light sauce.",
+            "Season with salt and pepper, stir in parsley, and serve immediately."
+        ]
+    },
+    {
+        "name": "Classic Chicken Curry",
+        "servings": 4,
+        "ingredients": [
+            "800 g bone-in chicken thighs, cut into pieces",
+            "1 large onion, diced",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "200 ml tomato puree",
+            "100 ml plain yogurt",
+            "3 tbsp vegetable oil",
+            "2 tbsp curry powder",
+            "1 tsp ground cumin",
+            "1 tsp ground coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder (optional)",
+            "300 ml water",
+            "salt, to taste",
+            "2 tbsp fresh cilantro, chopped"
+        ],
+        "steps": [
+            "Heat oil in a pot over medium heat; add onion and sauté until golden.",
+            "Add garlic and ginger; cook 1 minute.",
+            "Stir in curry powder, cumin, coriander, turmeric, and chili powder; toast 30 seconds.",
+            "Add chicken pieces; brown on all sides, about 5 minutes.",
+            "Mix in tomato puree and yogurt; simmer 2 minutes.",
+            "Pour in water, bring to a boil, then reduce heat and cover. Simmer 25-30 minutes until chicken is tender.",
+            "Season with salt, garnish with cilantro, and serve with rice or naan."
+        ]
+    },
+    {
+        "name": "Chocolate Avocado Mousse",
+        "servings": 2,
+        "ingredients": [
+            "2 ripe avocados",
+            "3 tbsp unsweetened cocoa powder",
+            "2 tbsp maple syrup",
+            "1/2 tsp vanilla extract",
+            "pinch of sea salt",
+            "1 tbsp dark chocolate shavings (optional)"
+        ],
+        "steps": [
+            "Blend avocados, cocoa powder, maple syrup, vanilla, and salt in a food processor until smooth.",
+            "Taste and adjust sweetness if needed.",
+            "Divide into serving glasses, chill 15 minutes.",
+            "Top with chocolate shavings before serving."
+        ]
+    },
+    {
+        "name": "Vegetarian Chili",
+        "servings": 6,
+        "ingredients": [
+            "2 tbsp olive oil",
+            "1 large onion, diced",
+            "3 cloves garlic, minced",
+            "1 red bell pepper, diced",
+            "1 large carrot, diced",
+            "2 celery stalks, diced",
+            "800 g canned crushed tomatoes",
+            "400 g kidney beans, drained and rinsed",
+            "400 g black beans, drained and rinsed",
+            "500 ml vegetable broth",
+            "2 tbsp chili powder",
+            "1 tbsp ground cumin",
+            "1 tsp smoked paprika",
+            "salt, to taste",
+            "black pepper, to taste",
+            "1 tbsp lime juice",
+            "2 tbsp fresh cilantro, chopped"
+        ],
+        "steps": [
+            "Heat oil in a large pot over medium heat; add onion, garlic, bell pepper, carrot, and celery. Sauté until softened, about 8 minutes.",
+            "Stir in chili powder, cumin, and smoked paprika; cook 1 minute.",
+            "Add crushed tomatoes, beans, and vegetable broth. Bring to a simmer.",
+            "Reduce heat and simmer uncovered 25-30 minutes to thicken.",
+            "Season with salt, pepper, and lime juice. Garnish with cilantro and serve."
+        ]
+    },
+    {
+        "name": "Pan-Seared Salmon with Lemon Butter",
+        "servings": 2,
+        "ingredients": [
+            "2 x 170 g salmon fillets",
+            "salt, to taste",
+            "black pepper, to taste",
+            "1 tbsp olive oil",
+            "2 tbsp unsalted butter",
+            "1 clove garlic, minced",
+            "1 tbsp lemon juice",
+            "1 tbsp fresh parsley, chopped"
+        ],
+        "steps": [
+            "Pat salmon dry and season with salt and pepper.",
+            "Heat olive oil in a skillet over medium-high heat. Place salmon skin-side up and sear 4 minutes.",
+            "Flip and cook 3-4 minutes until desired doneness. Remove salmon and keep warm.",
+            "Reduce heat to medium, add butter and garlic, cook 30 seconds, then stir in lemon juice and parsley.",
+            "Spoon sauce over salmon and serve."
+        ]
+    },
+    {
+        "name": "Oatmeal Banana Pancakes (Vegan)",
+        "servings": 3,
+        "ingredients": [
+            "180 g (2 cups) rolled oats",
+            "2 ripe bananas",
+            "180 ml plant milk",
+            "1 tsp baking powder",
+            "1 tsp vanilla extract",
+            "pinch of salt",
+            "1 tbsp coconut oil (for cooking)"
+        ],
+        "steps": [
+            "Blend oats to a flour in a blender. Add bananas, plant milk, baking powder, vanilla, and salt; blend to a smooth batter.",
+            "Heat a nonstick skillet over medium heat and add a little coconut oil.",
+            "Pour 1/4 cup batter per pancake, cook until bubbles form, then flip and cook 1-2 minutes more.",
+            "Serve with fruit, maple syrup, or nut butter."
+        ]
+    },
+    {
+        "name": "Greek Salad with Feta",
+        "servings": 4,
+        "ingredients": [
+            "1 large cucumber, diced",
+            "3 medium ripe tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "100 g kalamata olives, pitted",
+            "150 g feta cheese, crumbled",
+            "3 tbsp extra-virgin olive oil",
+            "1 tbsp red wine vinegar",
+            "1 tsp dried oregano",
+            "salt, to taste",
+            "black pepper, to taste"
+        ],
+        "steps": [
+            "Combine cucumber, tomatoes, red onion, and olives in a salad bowl.",
+            "Drizzle with olive oil and red wine vinegar, sprinkle oregano, salt, and pepper; toss gently.",
+            "Top with crumbled feta and serve chilled or at room temperature."
+        ]
+    },
+    {
+        "name": "Beef Stir-Fry with Broccoli",
+        "servings": 4,
+        "ingredients": [
+            "500 g flank steak, thinly sliced",
+            "400 g broccoli florets",
+            "60 ml soy sauce",
+            "1 tbsp rice vinegar",
+            "1 tbsp brown sugar",
+            "1 tbsp cornstarch",
+            "2 cloves garlic, minced",
+            "1 tsp ginger, grated",
+            "2 tbsp vegetable oil",
+            "1 tsp sesame oil",
+            "2 green onions, sliced"
+        ],
+        "steps": [
+            "Toss sliced beef with half the soy sauce and cornstarch; let marinate 10 minutes.",
+            "Heat vegetable oil in a wok over high heat. Stir-fry beef until browned; remove.",
+            "Add broccoli and a splash of water; stir-fry until bright green and tender-crisp, about 4 minutes.",
+            "Return beef to wok. Add remaining soy sauce, rice vinegar, brown sugar, garlic, and ginger; toss to coat and heat through.",
+            "Drizzle sesame oil, garnish with green onions, and serve with rice."
+        ]
+    },
+    {
+        "name": "Lentil Soup",
+        "servings": 6,
+        "ingredients": [
+            "2 tbsp olive oil",
+            "1 large onion, diced",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "3 cloves garlic, minced",
+            "300 g brown lentils, rinsed",
+            "400 g canned diced tomatoes",
+            "1.2 L vegetable or chicken broth",
+            "1 bay leaf",
+            "1 tsp ground cumin",
+            "salt, to taste",
+            "black pepper, to taste",
+            "2 tbsp fresh parsley, chopped"
+        ],
+        "steps": [
+            "Heat oil in a large pot over medium heat; add onion, carrots, and celery. Sauté until softened, 6-8 minutes.",
+            "Add garlic and cumin; cook 1 minute.",
+            "Add lentils, diced tomatoes, broth, and bay leaf. Bring to a boil, then reduce heat and simmer 25-30 minutes until lentils are tender.",
+            "Remove bay leaf, season with salt and pepper, stir in parsley, and serve."
+        ]
+    },
+    {
+        "name": "Classic Chocolate Chip Cookies",
+        "servings": 24,
+        "ingredients": [
+            "170 g (3/4 cup) unsalted butter, softened",
+            "100 g (1/2 cup) granulated sugar",
+            "110 g (1/2 cup packed) brown sugar",
+            "1 large egg",
+            "1 tsp vanilla extract",
+            "260 g (2 1/4 cups) all-purpose flour",
+            "1 tsp baking soda",
+            "1/2 tsp salt",
+            "300 g (1 1/2 cups) semisweet chocolate chips"
+        ],
+        "steps": [
+            "Preheat oven to 175°C (350°F). Line baking sheets with parchment paper.",
+            "Cream butter and sugars until light. Beat in egg and vanilla.",
+            "Whisk flour, baking soda, and salt; gradually mix into wet ingredients.",
+            "Fold in chocolate chips. Drop tablespoon-sized portions onto sheets.",
+            "Bake 9-11 minutes until edges are golden. Cool on racks."
+        ]
+    }
+]
